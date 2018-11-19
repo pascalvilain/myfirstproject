@@ -181,6 +181,9 @@ and inside the main-nav class there is an Anchor "a" */
 	border-radius: 5px;
 }
 
+.image1 {
+	align-self: center;
+}
 .image1 img {
 	border-radius: 5px;
 }
